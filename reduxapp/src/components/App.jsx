@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import PostList from './PostList';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div><PostList /></div>
   )
 }
 
